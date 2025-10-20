@@ -116,6 +116,33 @@
       font-size: 1rem;
       opacity: 0.9;
     }
+
+    .examples-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns */
+  gap: 0.5rem; /* Gap between buttons */
+}
+
+.example-btn {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.9rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.3);
+  background: rgba(255,255,255,0.05);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  color: white;
+  text-align: center;
+}
+
+.example-btn:hover {
+  background: rgba(0,212,255,0.2);
+  border-color: #00d4ff;
+}
+
   </style>
 </head>
 <body>
@@ -132,6 +159,18 @@
       <div class="confidence-bar" id="confidenceBar"></div>
     </div>
     <div class="confidence-text" id="confidenceText"></div>
+<div class="examples">
+  <h3>💡 Try these examples:</h3>
+  <div class="examples-grid">
+    <button class="example-btn">Oh sure, I just love when my computer crashes right before a deadline.</button>
+    <button class="example-btn">I had a great time with my friends today.</button>
+    <button class="example-btn">The food at the new restaurant was delicious.</button>
+    <button class="example-btn">Wow, I totally needed this traffic jam in my life.</button>
+    <button class="example-btn">Oh, wonderful, the internet is down again.</button>
+    <button class="example-btn">Yeah, because nothing says fun like doing taxes all night.</button>
+  </div>
+</div>
+
   </div>
 
   <script>
@@ -140,9 +179,10 @@
     const confidenceBar = document.getElementById("confidenceBar");
     const confidenceContainer = document.getElementById("confidenceContainer");
     const confidenceText = document.getElementById("confidenceText");
+    const userInput = document.getElementById("userInput");
 
     analyzeBtn.addEventListener("click", async () => {
-      const text = document.getElementById("userInput").value.trim();
+      const text = userInput.value.trim();
       if (!text) {
         alert("Please enter some text!");
         return;
@@ -185,6 +225,12 @@
         analyzeBtn.disabled = false;
       }
     });
+   document.querySelectorAll('.example-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.getElementById('userInput').value = btn.textContent;
+  });
+});
+
   </script>
 </body>
 </html>
