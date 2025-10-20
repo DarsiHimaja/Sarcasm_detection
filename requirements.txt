@@ -23,3 +23,5 @@ plotly
 matplotlib
 seaborn
 beautifulsoup4
+gunicorn
+flask
