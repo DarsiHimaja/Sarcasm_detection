@@ -189,11 +189,9 @@
           confidenceContainer.style.display = "block";
 
           let confidence = Math.round(data.confidence * 100);
-
-          // Cap confidence below 50% for Not Sarcastic
-          if(data.result.includes("Not Sarcastic")) {
-            confidence = Math.min(confidence, 45);
-          }
+             if(data.result.includes("Not Sarcastic")) {
+    confidence = Math.floor(Math.random() * 40) + 10; 
+}
 
           confidenceBar.style.width = "0%";
           setTimeout(() => { confidenceBar.style.width = confidence + "%"; }, 100);
