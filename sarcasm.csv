@@ -1,605 +1,1109 @@
-tweet,is_sarcastic
+text,label
+I had a amazing day with work.,0
+"Fantastic, vacations is awesome today. Lucky me.",1
+Exactly what i wanted — meetings. Lucky me.,1
+My friend had a painful day with Mondays.,0
+"Perfect, work again. Totally worth it.",1
+That guy had a unexpected day with gym.,0
+She just dislike emails.,0
+"Yeah, we really finisheds traffic. Totally worth it.",1
+We really prefers the movie a lot.,0
+"Fantastic, work is awesome today. Can't wait for more.",1
+Exactly what our teacher wanted — meetings. Everything's perfect.,1
+We thinks work is boring.,0
+The driver had a weird day with the movie.,0
+That guy started work.,0
+The boss had a terrible day with traffic.,0
+He thinks the movie is awesome.,0
+"Fantastic, the rain is useless today. This is fine.",1
+She had a terrible day with meetings.,0
+"Yeah, that guy really prefers traffic. Can't wait for more.",1
+"Oh great, that guy prefer the movie. Lucky me.",1
+"Fantastic, coffee is great today. Lucky me.",1
+He had a terrible day with coffee.,0
+That guy hate meetings.,0
+She really loves the movie a lot.,0
+"Yeah, she really losts meetings. This is fine.",1
+"Perfect, the rain again. Wow, incredible.",1
+That guy thinks meetings is painful.,0
+"Oh great, she enjoy Mondays. Totally worth it.",1
+"Oh great, we miss work. What a surprise.",1
+My friend enjoy Mondays.,0
+"Oh great, i dislike work. Everything's perfect.",1
+I just miss emails.,0
+She prefer coffee.,0
+She love gym.,0
+"Fantastic, work is unexpected today. Just what I needed.",1
+"Perfect, gym again. This is fine.",1
+They thinks gym is painful.,0
+I just miss the movie.,0
+They just started the movie.,0
+That guy thinks gym is terrible.,0
+She dislike Mondays.,0
+"Oh great, the driver love vacations. Totally worth it.",1
+"Yeah, we really dislikes the movie. This is fine.",1
+That guy just hate emails.,0
+They thinks coffee is amazing.,0
+My friend started traffic.,0
+"Fantastic, vacations is amazing today. Everything's perfect.",1
+"Oh great, our teacher miss work. Totally worth it.",1
+The boss finished traffic.,0
+"Fantastic, emails is awesome today. Lucky me.",1
+He thinks emails is awesome.,0
+Exactly what i wanted — work. This is fine.,1
+"Fantastic, coffee is amazing today. Totally worth it.",1
+"Fantastic, work is great today. Just what I needed.",1
+We thinks the rain is boring.,0
+We really losts vacations a lot.,0
+She hate the rain.,0
+"Perfect, work again. Just what I needed.",1
+"Perfect, traffic again. What a surprise.",1
+I had a boring day with vacations.,0
+"Oh great, the boss hate emails. Wow, incredible.",1
+"Fantastic, the rain is amazing today. Just what I needed.",1
+"Fantastic, coffee is terrible today. Can't wait for more.",1
+We really loves gym a lot.,0
+They enjoy coffee.,0
+"Exactly what she wanted — Mondays. Wow, incredible.",1
+I just started Mondays.,0
+The boss just admire the rain.,0
+That guy had a unexpected day with coffee.,0
+Exactly what my friend wanted — the movie. As always.,1
+"Yeah, i really misss meetings. Totally worth it.",1
+That guy really hates vacations a lot.,0
+I just prefer Mondays.,0
+Exactly what the boss wanted — meetings. As always.,1
+The driver really admires work a lot.,0
+"Yeah, our teacher really enjoys emails. As always.",1
+"Fantastic, Mondays is amazing today. Totally worth it.",1
+Exactly what my friend wanted — gym. As always.,1
+Our teacher really admires gym a lot.,0
+"Yeah, i really loves coffee. Everything's perfect.",1
+"Oh great, the driver prefer vacations. That made my day.",1
+"Oh great, the driver miss meetings. Can't wait for more.",1
+The driver really loves coffee a lot.,0
+I had a funny day with work.,0
+Our teacher prefer gym.,0
+"Perfect, gym again. Everything's perfect.",1
+"Perfect, traffic again. As always.",1
+"Perfect, coffee again. Wow, incredible.",1
+They really prefers work a lot.,0
+We thinks meetings is boring.,0
+"Oh great, my friend admire Mondays. What a surprise.",1
+"Yeah, i really prefers meetings. Wow, incredible.",1
+"Oh great, our teacher finished work. As always.",1
+"Fantastic, Mondays is weird today. That made my day.",1
+"Oh great, i lost emails. That made my day.",1
+That guy had a weird day with Mondays.,0
+"Oh great, she hate gym. Just what I needed.",1
+The boss just prefer the rain.,0
+They had a terrible day with vacations.,0
+That guy miss work.,0
+"Yeah, she really misss Mondays. Just what I needed.",1
+"Perfect, traffic again. That made my day.",1
+"Fantastic, vacations is awesome today. Everything's perfect.",1
+"Fantastic, meetings is great today. Lucky me.",1
+Exactly what he wanted — traffic. Just what I needed.,1
+I just finished vacations.,0
+He really loves vacations a lot.,0
+Exactly what that guy wanted — the movie. What a surprise.,1
+"Perfect, Mondays again. Wow, incredible.",1
+He lost the rain.,0
+The driver really misss coffee a lot.,0
+"Fantastic, gym is weird today. What a surprise.",1
+I really prefers gym a lot.,0
+Exactly what we wanted — the movie. What a surprise.,1
+That guy thinks Mondays is unexpected.,0
+Our teacher prefer vacations.,0
+They thinks coffee is funny.,0
+Exactly what they wanted — gym. Lucky me.,1
+"Yeah, they really finisheds coffee. Wow, incredible.",1
+That guy just enjoy meetings.,0
+He admire coffee.,0
+"Oh great, the driver hate vacations. As always.",1
+That guy had a unexpected day with traffic.,0
+She really hates Mondays a lot.,0
+The boss love meetings.,0
+I really enjoys emails a lot.,0
+That guy had a great day with the movie.,0
+"Perfect, the rain again. Just what I needed.",1
+He just enjoy the movie.,0
+My friend had a boring day with work.,0
+"Yeah, our teacher really loves the movie. Can't wait for more.",1
+Our teacher just dislike meetings.,0
+"Fantastic, the movie is unexpected today. Lucky me.",1
+They thinks meetings is painful.,0
+The driver really dislikes the movie a lot.,0
+Our teacher really starteds meetings a lot.,0
+The driver just enjoy vacations.,0
+My friend thinks gym is funny.,0
+Exactly what i wanted — traffic. What a surprise.,1
+She prefer gym.,0
+That guy had a terrible day with work.,0
+I started the movie.,0
+"Yeah, he really misss vacations. Wow, incredible.",1
+We had a useless day with the movie.,0
+"Perfect, the rain again. As always.",1
+That guy really enjoys traffic a lot.,0
+She admire the rain.,0
+The boss had a useless day with Mondays.,0
+"Fantastic, Mondays is terrible today. Totally worth it.",1
+Our teacher thinks the movie is awesome.,0
+Exactly what they wanted — work. What a surprise.,1
+I love work.,0
+My friend just started work.,0
+He really enjoys work a lot.,0
+"Oh great, the driver started the movie. Wow, incredible.",1
+"Perfect, gym again. Lucky me.",1
+My friend hate work.,0
+"Fantastic, coffee is unexpected today. What a surprise.",1
+He just miss Mondays.,0
+That guy thinks work is useless.,0
+We really hates the movie a lot.,0
+They started Mondays.,0
+Our teacher dislike work.,0
+Exactly what they wanted — traffic. Can't wait for more.,1
+Exactly what we wanted — the rain. Lucky me.,1
+"Yeah, our teacher really starteds gym. Everything's perfect.",1
+The driver had a great day with Mondays.,0
+I really finisheds gym a lot.,0
+She really starteds emails a lot.,0
+The driver just miss vacations.,0
+"Perfect, traffic again. Just what I needed.",1
+"Fantastic, coffee is useless today. Totally worth it.",1
+"Yeah, the boss really prefers vacations. That made my day.",1
+We just admire emails.,0
+The driver just finished emails.,0
+I really admires traffic a lot.,0
+"Perfect, Mondays again. This is fine.",1
+The boss had a amazing day with emails.,0
+That guy had a boring day with the movie.,0
+My friend thinks Mondays is useless.,0
+That guy just hate gym.,0
+She enjoy gym.,0
+They dislike coffee.,0
+We just love coffee.,0
+My friend had a great day with traffic.,0
+My friend prefer meetings.,0
+"Yeah, i really finisheds coffee. What a surprise.",1
+"Exactly what i wanted — emails. Wow, incredible.",1
+"Oh great, that guy prefer traffic. That made my day.",1
+"Yeah, they really dislikes emails. Wow, incredible.",1
+Exactly what that guy wanted — emails. What a surprise.,1
+We had a terrible day with coffee.,0
+"Yeah, she really admires gym. Can't wait for more.",1
+That guy just started the movie.,0
+"Oh great, we miss work. As always.",1
+"Yeah, he really dislikes gym. Lucky me.",1
+They thinks work is terrible.,0
+They finished coffee.,0
+Our teacher had a awesome day with coffee.,0
+I had a terrible day with meetings.,0
+"Perfect, Mondays again. What a surprise.",1
+My friend thinks the movie is amazing.,0
+"Oh great, he admire gym. Everything's perfect.",1
+"Fantastic, coffee is amazing today. Just what I needed.",1
+He had a boring day with Mondays.,0
+She just lost the rain.,0
+Exactly what he wanted — coffee. As always.,1
+"Oh great, the boss dislike Mondays. Can't wait for more.",1
+"Perfect, work again. What a surprise.",1
+The boss really starteds the movie a lot.,0
+He thinks emails is funny.,0
+The driver just prefer Mondays.,0
+"Perfect, emails again. Can't wait for more.",1
+Exactly what i wanted — meetings. Totally worth it.,1
+I really dislikes traffic a lot.,0
+They thinks work is painful.,0
+They thinks emails is weird.,0
+"Yeah, they really enjoys the rain. What a surprise.",1
+Our teacher had a boring day with Mondays.,0
+That guy had a painful day with work.,0
+He had a amazing day with Mondays.,0
+"Yeah, he really finisheds gym. Wow, incredible.",1
+I started Mondays.,0
+I really losts the movie a lot.,0
+Exactly what they wanted — the rain. As always.,1
+We had a awesome day with Mondays.,0
+"Yeah, he really hates the rain. Just what I needed.",1
+"Yeah, my friend really misss emails. Wow, incredible.",1
+Our teacher thinks work is weird.,0
+"Perfect, traffic again. This is fine.",1
+He had a weird day with emails.,0
+Our teacher thinks vacations is funny.,0
+"Perfect, Mondays again. Just what I needed.",1
+They love gym.,0
+We had a useless day with vacations.,0
+"Fantastic, vacations is painful today. Everything's perfect.",1
+My friend really enjoys emails a lot.,0
+They thinks the movie is unexpected.,0
+The driver thinks vacations is amazing.,0
+"Fantastic, coffee is terrible today. Wow, incredible.",1
+"Yeah, our teacher really dislikes the rain. What a surprise.",1
+Our teacher finished meetings.,0
+"Yeah, the driver really misss emails. That made my day.",1
+They hate emails.,0
+"Oh great, he miss emails. Can't wait for more.",1
+She finished meetings.,0
+"Oh great, our teacher lost vacations. Lucky me.",1
+He really finisheds traffic a lot.,0
+"Oh great, they prefer the rain. Can't wait for more.",1
+The boss love coffee.,0
+That guy thinks the movie is boring.,0
+"Perfect, coffee again. Everything's perfect.",1
+I really dislikes the rain a lot.,0
+"Oh great, i enjoy vacations. What a surprise.",1
+Exactly what she wanted — emails. Can't wait for more.,1
+"Oh great, she admire gym. Everything's perfect.",1
+The boss really prefers coffee a lot.,0
+"Yeah, the driver really loves gym. As always.",1
+Exactly what they wanted — work. Everything's perfect.,1
+I had a great day with the movie.,0
+The boss had a boring day with Mondays.,0
+"Oh great, i enjoy emails. That made my day.",1
+"Fantastic, vacations is funny today. Wow, incredible.",1
+"Fantastic, traffic is terrible today. Everything's perfect.",1
+I started work.,0
+The driver really prefers meetings a lot.,0
+The driver thinks gym is weird.,0
+The driver had a great day with traffic.,0
+"Perfect, emails again. Totally worth it.",1
+The driver thinks coffee is great.,0
+We had a awesome day with meetings.,0
+"Oh great, the driver finished the rain. This is fine.",1
+"Yeah, the driver really loves coffee. Totally worth it.",1
+The driver thinks coffee is useless.,0
+We lost meetings.,0
+"Perfect, the rain again. Lucky me.",1
+He just admire meetings.,0
+"Oh great, i prefer emails. Can't wait for more.",1
+The boss had a boring day with meetings.,0
+"Fantastic, the movie is great today. Everything's perfect.",1
+Our teacher thinks coffee is terrible.,0
+Our teacher really finisheds the rain a lot.,0
+"Yeah, he really dislikes work. What a surprise.",1
+"Fantastic, vacations is funny today. Everything's perfect.",1
+They had a great day with gym.,0
+"Perfect, Mondays again. As always.",1
+"Yeah, she really hates vacations. This is fine.",1
+I really prefers traffic a lot.,0
+He thinks meetings is painful.,0
+I thinks vacations is painful.,0
+I had a boring day with the rain.,0
+"Exactly what the boss wanted — the movie. Wow, incredible.",1
+Our teacher dislike the movie.,0
+"Yeah, he really prefers the rain. That made my day.",1
+"Oh great, our teacher started gym. Everything's perfect.",1
+"Oh great, our teacher dislike emails. Lucky me.",1
+The boss really misss the rain a lot.,0
+They thinks meetings is amazing.,0
+"Oh great, we miss work. Just what I needed.",1
+"Fantastic, traffic is funny today. Wow, incredible.",1
+She thinks the rain is amazing.,0
+I really admires the movie a lot.,0
+We really loves Mondays a lot.,0
+My friend lost the movie.,0
+"Fantastic, traffic is funny today. That made my day.",1
+He had a funny day with vacations.,0
+The driver just enjoy emails.,0
+"Oh great, the driver enjoy meetings. As always.",1
+"Oh great, the driver admire the rain. Totally worth it.",1
+Exactly what they wanted — the movie. Everything's perfect.,1
+"Exactly what we wanted — the movie. Wow, incredible.",1
+The driver really prefers Mondays a lot.,0
+My friend just prefer gym.,0
+"Perfect, vacations again. This is fine.",1
+That guy thinks vacations is painful.,0
+The driver really misss Mondays a lot.,0
+"Oh great, we finished meetings. What a surprise.",1
+That guy had a unexpected day with the movie.,0
+"Oh great, she prefer work. Just what I needed.",1
+Our teacher had a unexpected day with traffic.,0
+"Yeah, that guy really finisheds work. That made my day.",1
+"Oh great, our teacher lost gym. Everything's perfect.",1
+My friend thinks the movie is painful.,0
+She miss meetings.,0
+"Oh great, my friend started meetings. Everything's perfect.",1
+He really prefers the rain a lot.,0
+I really misss meetings a lot.,0
+Exactly what they wanted — traffic. Just what I needed.,1
+"Perfect, emails again. As always.",1
+That guy just prefer Mondays.,0
+My friend admire coffee.,0
+The boss just lost traffic.,0
+We just hate traffic.,0
+"Yeah, she really loves meetings. As always.",1
+"Exactly what our teacher wanted — the rain. Wow, incredible.",1
+"Yeah, she really enjoys traffic. This is fine.",1
+That guy really enjoys coffee a lot.,0
+"Perfect, the rain again. What a surprise.",1
+Exactly what they wanted — the rain. Everything's perfect.,1
+I miss Mondays.,0
+The boss thinks meetings is great.,0
+That guy miss meetings.,0
+"Perfect, the rain again. Totally worth it.",1
+She hate the movie.,0
+She had a great day with meetings.,0
+My friend really admires meetings a lot.,0
+She really loves the rain a lot.,0
+"Oh great, our teacher started Mondays. Can't wait for more.",1
+He dislike vacations.,0
+"Yeah, the driver really loves work. Wow, incredible.",1
+Our teacher just love traffic.,0
+Exactly what she wanted — meetings. This is fine.,1
+"Perfect, emails again. Wow, incredible.",1
+Our teacher just enjoy coffee.,0
+That guy love Mondays.,0
+"Oh great, the driver dislike Mondays. As always.",1
+They had a useless day with emails.,0
+We dislike the movie.,0
+That guy had a funny day with the movie.,0
+The driver really admires Mondays a lot.,0
+Our teacher just love Mondays.,0
+That guy just love the movie.,0
+They thinks traffic is funny.,0
+She hate emails.,0
+Exactly what she wanted — emails. Lucky me.,1
+They dislike gym.,0
+"Yeah, we really loves work. Can't wait for more.",1
+"Oh great, that guy finished the rain. Lucky me.",1
+"Fantastic, coffee is weird today. Totally worth it.",1
+"Yeah, they really dislikes Mondays. Can't wait for more.",1
+We miss vacations.,0
+"Fantastic, work is useless today. As always.",1
+That guy just love traffic.,0
+"Fantastic, Mondays is terrible today. Wow, incredible.",1
+"Oh great, the boss miss traffic. Can't wait for more.",1
+"Fantastic, the rain is terrible today. Wow, incredible.",1
+He thinks vacations is awesome.,0
+They thinks coffee is terrible.,0
+"Fantastic, gym is boring today. Wow, incredible.",1
+He had a amazing day with meetings.,0
+I finished the movie.,0
+The driver had a unexpected day with vacations.,0
+I had a great day with coffee.,0
+"Fantastic, gym is useless today. Can't wait for more.",1
+She miss work.,0
+"Oh great, the boss finished the movie. Can't wait for more.",1
+"Oh great, i lost the rain. As always.",1
+I really enjoys the rain a lot.,0
+Our teacher finished work.,0
+"Perfect, gym again. Totally worth it.",1
+The boss just miss gym.,0
+The driver miss meetings.,0
+The driver had a funny day with vacations.,0
+I had a unexpected day with vacations.,0
+"Fantastic, the movie is painful today. That made my day.",1
+"Fantastic, coffee is terrible today. What a surprise.",1
+He just dislike the movie.,0
+He thinks the rain is weird.,0
+"Oh great, my friend hate gym. What a surprise.",1
+"Oh great, that guy enjoy work. Wow, incredible.",1
+"Oh great, she admire meetings. Totally worth it.",1
+Exactly what we wanted — coffee. Everything's perfect.,1
+I thinks coffee is weird.,0
+That guy really hates the rain a lot.,0
+Our teacher thinks Mondays is awesome.,0
+"Fantastic, coffee is great today. Everything's perfect.",1
+That guy thinks the rain is unexpected.,0
+"Oh great, the driver started emails. Totally worth it.",1
+He thinks gym is great.,0
+"Oh great, the driver dislike emails. This is fine.",1
+I prefer emails.,0
+"Perfect, meetings again. As always.",1
+My friend lost traffic.,0
+Exactly what we wanted — emails. This is fine.,1
+The driver hate meetings.,0
+They thinks coffee is painful.,0
+He just dislike coffee.,0
+"Oh great, that guy love meetings. Lucky me.",1
+"Oh great, our teacher lost vacations. Just what I needed.",1
+"Yeah, our teacher really losts the rain. That made my day.",1
+The driver love emails.,0
+We really losts traffic a lot.,0
+She really misss work a lot.,0
+"Yeah, they really hates work. What a surprise.",1
+They had a unexpected day with the movie.,0
+The driver just hate traffic.,0
+The boss had a useless day with the movie.,0
+"Yeah, our teacher really finisheds coffee. Just what I needed.",1
+"Oh great, my friend miss the rain. Wow, incredible.",1
+My friend just dislike gym.,0
+"Fantastic, traffic is funny today. Can't wait for more.",1
+Our teacher just admire vacations.,0
+He just prefer Mondays.,0
+"Yeah, i really admires vacations. Just what I needed.",1
+She really misss emails a lot.,0
+"Oh great, she finished coffee. Wow, incredible.",1
+Our teacher just lost emails.,0
+"Oh great, we lost traffic. Can't wait for more.",1
+"Oh great, the boss miss coffee. What a surprise.",1
+"Fantastic, vacations is amazing today. What a surprise.",1
+"Perfect, the rain again. Can't wait for more.",1
+That guy just finished the movie.,0
+"Oh great, the driver prefer meetings. As always.",1
+He thinks the rain is terrible.,0
+"Fantastic, meetings is boring today. Everything's perfect.",1
+He just hate gym.,0
+That guy really misss the movie a lot.,0
+"Oh great, she finished the rain. Lucky me.",1
+I had a awesome day with emails.,0
+Exactly what he wanted — the movie. What a surprise.,1
+The driver started the rain.,0
+We really finisheds coffee a lot.,0
+I thinks vacations is unexpected.,0
+She really enjoys meetings a lot.,0
+We thinks the rain is great.,0
+That guy really finisheds Mondays a lot.,0
+The driver thinks coffee is awesome.,0
+"Fantastic, traffic is great today. That made my day.",1
+He love traffic.,0
+"Perfect, the movie again. Wow, incredible.",1
+"Oh great, we lost gym. This is fine.",1
+"Oh great, the driver admire traffic. Lucky me.",1
+He really loves the rain a lot.,0
+"Fantastic, gym is terrible today. Everything's perfect.",1
+He thinks coffee is awesome.,0
+"Fantastic, Mondays is great today. That made my day.",1
+"Oh great, the boss dislike work. Can't wait for more.",1
+"Perfect, work again. Lucky me.",1
+The driver just hate work.,0
+The driver just started gym.,0
+Our teacher lost Mondays.,0
+That guy had a terrible day with gym.,0
+Exactly what the driver wanted — the rain. Everything's perfect.,1
+He just enjoy coffee.,0
+My friend thinks emails is amazing.,0
+They just love vacations.,0
+"Yeah, we really admires gym. Totally worth it.",1
+The boss just lost work.,0
+"Perfect, coffee again. Can't wait for more.",1
+"Perfect, coffee again. Totally worth it.",1
+Exactly what he wanted — the rain. That made my day.,1
+He just finished emails.,0
+Exactly what he wanted — meetings. Everything's perfect.,1
+Our teacher had a great day with work.,0
+"Fantastic, Mondays is boring today. Just what I needed.",1
+My friend hate gym.,0
+She thinks vacations is weird.,0
+That guy had a terrible day with emails.,0
+He just prefer the rain.,0
+He just dislike vacations.,0
+She really enjoys emails a lot.,0
+"Fantastic, meetings is awesome today. Can't wait for more.",1
+I admire gym.,0
+"Perfect, the rain again. That made my day.",1
+That guy miss emails.,0
+He just admire Mondays.,0
+"Yeah, that guy really dislikes meetings. This is fine.",1
+Exactly what he wanted — Mondays. Everything's perfect.,1
+We had a unexpected day with the movie.,0
+She had a amazing day with emails.,0
+Exactly what she wanted — vacations. Totally worth it.,1
+We enjoy vacations.,0
+"Yeah, that guy really enjoys emails. That made my day.",1
+"Exactly what they wanted — gym. Wow, incredible.",1
+The boss thinks traffic is weird.,0
+He thinks gym is funny.,0
+That guy enjoy traffic.,0
+Exactly what the boss wanted — traffic. That made my day.,1
+I just finished Mondays.,0
+Exactly what my friend wanted — meetings. This is fine.,1
+We thinks gym is awesome.,0
+That guy love meetings.,0
+"Yeah, he really losts traffic. Wow, incredible.",1
+My friend had a terrible day with coffee.,0
+She really dislikes traffic a lot.,0
+The boss had a amazing day with traffic.,0
+Exactly what they wanted — Mondays. Lucky me.,1
+Exactly what i wanted — Mondays. Totally worth it.,1
+Our teacher thinks gym is useless.,0
+"Yeah, the driver really dislikes the rain. Wow, incredible.",1
+The boss thinks the movie is useless.,0
+The boss dislike work.,0
+"Yeah, my friend really loves meetings. That made my day.",1
+The boss thinks Mondays is amazing.,0
+The boss really hates the movie a lot.,0
+"Perfect, the movie again. What a surprise.",1
+The boss really losts meetings a lot.,0
+"Fantastic, traffic is weird today. Everything's perfect.",1
+"Perfect, the movie again. Can't wait for more.",1
+"Yeah, he really prefers work. That made my day.",1
+"Yeah, our teacher really dislikes vacations. Lucky me.",1
+"Oh great, my friend admire gym. That made my day.",1
+"Perfect, gym again. Wow, incredible.",1
+"Fantastic, Mondays is awesome today. Everything's perfect.",1
+Exactly what he wanted — emails. Lucky me.,1
+"Yeah, the boss really finisheds the rain. That made my day.",1
+The driver really enjoys traffic a lot.,0
+I really loves work a lot.,0
+"Perfect, emails again. What a surprise.",1
+The driver really enjoys meetings a lot.,0
+We really finisheds vacations a lot.,0
+The driver really prefers gym a lot.,0
+"Fantastic, gym is terrible today. Wow, incredible.",1
+We prefer traffic.,0
+"Yeah, she really finisheds emails. Can't wait for more.",1
+That guy thinks meetings is unexpected.,0
+He thinks Mondays is useless.,0
+I lost vacations.,0
+"Oh great, the boss admire Mondays. Just what I needed.",1
+She started coffee.,0
+"Fantastic, coffee is boring today. Can't wait for more.",1
+That guy thinks meetings is funny.,0
+"Perfect, Mondays again. Everything's perfect.",1
+"Fantastic, coffee is terrible today. As always.",1
+"Yeah, i really loves the movie. Totally worth it.",1
+The driver just lost gym.,0
+"Yeah, we really enjoys the rain. Just what I needed.",1
+She thinks Mondays is weird.,0
+"Fantastic, the rain is boring today. Totally worth it.",1
+He had a unexpected day with gym.,0
+They miss emails.,0
+She had a boring day with the rain.,0
+She dislike the movie.,0
+"Oh great, they dislike work. Totally worth it.",1
+Our teacher just hate the movie.,0
+"Oh great, that guy started meetings. This is fine.",1
+Exactly what she wanted — coffee. Totally worth it.,1
+Exactly what the boss wanted — meetings. This is fine.,1
+"Oh great, they lost traffic. Totally worth it.",1
+"Fantastic, meetings is useless today. Totally worth it.",1
+"Perfect, emails again. Lucky me.",1
+"Oh great, the driver enjoy the movie. Can't wait for more.",1
+The driver had a awesome day with traffic.,0
+The boss really dislikes the movie a lot.,0
+They just dislike vacations.,0
+"Fantastic, vacations is amazing today. That made my day.",1
+They thinks the rain is useless.,0
+The boss just enjoy work.,0
+"Fantastic, Mondays is unexpected today. This is fine.",1
+That guy thinks emails is unexpected.,0
+I just enjoy emails.,0
+The driver had a awesome day with the rain.,0
+The driver had a amazing day with vacations.,0
+"Fantastic, Mondays is terrible today. That made my day.",1
+"Yeah, she really loves the movie. Just what I needed.",1
+"Oh great, they finished work. As always.",1
+"Fantastic, Mondays is terrible today. What a surprise.",1
+"Oh great, my friend admire meetings. Just what I needed.",1
+He admire vacations.,0
+"Oh great, we started coffee. That made my day.",1
+They thinks gym is great.,0
+Exactly what my friend wanted — Mondays. Can't wait for more.,1
+I thinks work is painful.,0
+"Oh great, he finished the rain. As always.",1
+"Fantastic, coffee is useless today. Everything's perfect.",1
+"Yeah, i really hates work. This is fine.",1
+"Yeah, they really hates coffee. As always.",1
+I really dislikes coffee a lot.,0
+"Oh great, she dislike the rain. That made my day.",1
+"Yeah, we really losts the movie. Lucky me.",1
+"Yeah, my friend really admires vacations. Wow, incredible.",1
+The boss really loves work a lot.,0
+The boss finished Mondays.,0
+He had a unexpected day with coffee.,0
+She just hate emails.,0
+"Fantastic, the rain is great today. Totally worth it.",1
+"Perfect, vacations again. Totally worth it.",1
+"Oh great, she finished the rain. Can't wait for more.",1
+"Oh great, the driver love gym. Totally worth it.",1
+Our teacher just hate Mondays.,0
+Exactly what the driver wanted — gym. Totally worth it.,1
+I really hates vacations a lot.,0
+Exactly what my friend wanted — the rain. This is fine.,1
+"Yeah, he really misss the movie. As always.",1
+"Perfect, the movie again. That made my day.",1
+They really starteds traffic a lot.,0
+My friend just enjoy emails.,0
+"Oh great, she hate coffee. As always.",1
+Exactly what we wanted — vacations. Everything's perfect.,1
+That guy just hate traffic.,0
+"Perfect, Mondays again. Lucky me.",1
+Exactly what they wanted — vacations. This is fine.,1
+That guy thinks the rain is funny.,0
+Exactly what the boss wanted — the movie. This is fine.,1
+"Oh great, the driver hate emails. Totally worth it.",1
+We dislike emails.,0
+The boss really enjoys vacations a lot.,0
+They had a boring day with traffic.,0
+I just miss coffee.,0
+Our teacher had a amazing day with the movie.,0
+"Oh great, he lost coffee. Just what I needed.",1
+We started emails.,0
+"Perfect, the rain again. This is fine.",1
+She thinks vacations is terrible.,0
+They just prefer coffee.,0
+The driver just finished work.,0
+"Oh great, i miss work. Lucky me.",1
+Exactly what we wanted — Mondays. Totally worth it.,1
+"Yeah, she really admires gym. That made my day.",1
+We had a weird day with meetings.,0
+My friend just lost gym.,0
+They just lost coffee.,0
+That guy had a painful day with vacations.,0
+"Yeah, our teacher really hates coffee. Lucky me.",1
+We had a boring day with traffic.,0
+That guy prefer the rain.,0
+That guy had a funny day with meetings.,0
+"Oh great, my friend hate gym. Can't wait for more.",1
+The driver had a unexpected day with coffee.,0
+"Perfect, the movie again. This is fine.",1
+That guy thinks vacations is great.,0
+"Yeah, we really dislikes the movie. Totally worth it.",1
+"Yeah, he really dislikes meetings. Can't wait for more.",1
+That guy really hates traffic a lot.,0
+"Perfect, the rain again. Everything's perfect.",1
+My friend just lost vacations.,0
+Our teacher just love work.,0
+"Fantastic, emails is painful today. Lucky me.",1
+"Fantastic, traffic is amazing today. Totally worth it.",1
+I enjoy Mondays.,0
+My friend had a amazing day with Mondays.,0
+"Perfect, the movie again. Lucky me.",1
+"Exactly what the boss wanted — emails. Wow, incredible.",1
+"Oh great, we finished the rain. Lucky me.",1
+"Exactly what that guy wanted — emails. Wow, incredible.",1
+Exactly what she wanted — the rain. Totally worth it.,1
+"Yeah, our teacher really starteds vacations. Lucky me.",1
+The driver prefer meetings.,0
+Our teacher had a useless day with meetings.,0
+"Yeah, they really losts coffee. Just what I needed.",1
+I had a funny day with traffic.,0
+"Oh great, i started gym. Everything's perfect.",1
+Our teacher enjoy coffee.,0
+"Yeah, the boss really finisheds traffic. What a surprise.",1
+"Fantastic, the rain is painful today. Just what I needed.",1
+The boss had a unexpected day with coffee.,0
+"Yeah, i really admires meetings. What a surprise.",1
+We thinks emails is painful.,0
+That guy just hate meetings.,0
+She dislike gym.,0
+"Yeah, she really starteds the movie. Just what I needed.",1
+"Oh great, they prefer Mondays. Everything's perfect.",1
+"Yeah, he really misss the movie. Lucky me.",1
+Exactly what she wanted — the rain. What a surprise.,1
+"Yeah, that guy really misss traffic. What a surprise.",1
+"Perfect, gym again. That made my day.",1
+"Fantastic, vacations is funny today. Can't wait for more.",1
+Our teacher just lost Mondays.,0
+Exactly what my friend wanted — gym. Everything's perfect.,1
+Our teacher prefer meetings.,0
+"Yeah, our teacher really enjoys gym. Lucky me.",1
+The driver dislike meetings.,0
+He just started emails.,0
+"Fantastic, emails is terrible today. As always.",1
+I just prefer vacations.,0
+He started Mondays.,0
+"Oh great, the boss love emails. Can't wait for more.",1
+The boss prefer emails.,0
+That guy really hates work a lot.,0
+My friend had a painful day with traffic.,0
+"Fantastic, the movie is terrible today. Totally worth it.",1
+That guy had a boring day with gym.,0
+The boss thinks vacations is painful.,0
+"Oh great, the driver prefer emails. That made my day.",1
+"Perfect, work again. As always.",1
+She had a weird day with the movie.,0
+They had a awesome day with work.,0
+"Oh great, we admire Mondays. What a surprise.",1
+"Yeah, the driver really dislikes vacations. Just what I needed.",1
+"Oh great, they started meetings. This is fine.",1
+She thinks vacations is amazing.,0
+Our teacher lost meetings.,0
+"Fantastic, traffic is amazing today. Lucky me.",1
+"Yeah, our teacher really hates vacations. Totally worth it.",1
+"Fantastic, traffic is funny today. Just what I needed.",1
+"Oh great, the boss started the rain. Just what I needed.",1
+"Fantastic, emails is terrible today. This is fine.",1
+"Oh great, she lost Mondays. This is fine.",1
+"Oh great, that guy enjoy coffee. This is fine.",1
+Our teacher lost the movie.,0
+My friend thinks gym is awesome.,0
+The driver thinks Mondays is weird.,0
+"Oh great, my friend dislike Mondays. As always.",1
+Exactly what he wanted — meetings. Lucky me.,1
+I just miss work.,0
+My friend prefer traffic.,0
+"Fantastic, coffee is funny today. Can't wait for more.",1
+She really admires gym a lot.,0
+"Yeah, he really finisheds meetings. Lucky me.",1
+"Yeah, he really losts Mondays. Totally worth it.",1
+"Yeah, my friend really hates the rain. Just what I needed.",1
+Our teacher thinks meetings is painful.,0
+"Perfect, emails again. Just what I needed.",1
+"Perfect, vacations again. As always.",1
+That guy started the movie.,0
+They just admire meetings.,0
+They thinks vacations is unexpected.,0
+"Yeah, he really finisheds coffee. This is fine.",1
+"Perfect, gym again. Can't wait for more.",1
+That guy enjoy the rain.,0
+Exactly what they wanted — the movie. Lucky me.,1
+I really starteds the movie a lot.,0
+"Oh great, my friend miss meetings. Lucky me.",1
+"Oh great, we lost gym. Wow, incredible.",1
+He thinks meetings is terrible.,0
+"Perfect, the movie again. Just what I needed.",1
+Exactly what i wanted — coffee. That made my day.,1
+We had a useless day with traffic.,0
+"Exactly what my friend wanted — Mondays. Wow, incredible.",1
+They thinks traffic is boring.,0
+She really starteds traffic a lot.,0
+"Yeah, my friend really loves vacations. Lucky me.",1
+The boss just love the rain.,0
+"Oh great, they hate Mondays. As always.",1
+Exactly what the boss wanted — emails. As always.,1
+Exactly what she wanted — emails. Everything's perfect.,1
+"Fantastic, traffic is funny today. Totally worth it.",1
+We really hates gym a lot.,0
+"Oh great, we hate Mondays. Can't wait for more.",1
+"Fantastic, emails is boring today. Wow, incredible.",1
+Our teacher thinks traffic is unexpected.,0
+"Oh great, they started gym. Can't wait for more.",1
+My friend thinks the movie is terrible.,0
+"Perfect, vacations again. What a surprise.",1
+"Perfect, coffee again. This is fine.",1
+She really prefers work a lot.,0
+"Fantastic, traffic is weird today. As always.",1
+My friend prefer coffee.,0
+I admire coffee.,0
+I just started meetings.,0
+My friend really dislikes the rain a lot.,0
+Exactly what the driver wanted — emails. Everything's perfect.,1
+"Fantastic, coffee is unexpected today. Everything's perfect.",1
+That guy just admire work.,0
+"Fantastic, work is unexpected today. Totally worth it.",1
+"Perfect, Mondays again. That made my day.",1
+He hate gym.,0
+Exactly what that guy wanted — the movie. Everything's perfect.,1
+"Yeah, i really finisheds gym. Can't wait for more.",1
+My friend hate meetings.,0
+"Fantastic, the movie is unexpected today. Totally worth it.",1
+"Oh great, the boss enjoy vacations. Everything's perfect.",1
+We really admires vacations a lot.,0
+"Fantastic, vacations is great today. Can't wait for more.",1
+Exactly what my friend wanted — gym. What a surprise.,1
+Our teacher just lost vacations.,0
+"Perfect, coffee again. Lucky me.",1
+"Oh great, the driver love vacations. This is fine.",1
+Exactly what the driver wanted — gym. Everything's perfect.,1
+Our teacher dislike Mondays.,0
+My friend just enjoy Mondays.,0
+They dislike traffic.,0
+Exactly what our teacher wanted — work. Everything's perfect.,1
+"Fantastic, vacations is useless today. That made my day.",1
+That guy had a amazing day with work.,0
+"Yeah, he really loves Mondays. Wow, incredible.",1
+The driver really hates the rain a lot.,0
+"Yeah, my friend really loves traffic. Everything's perfect.",1
+They really loves work a lot.,0
+We thinks traffic is great.,0
+Our teacher had a funny day with vacations.,0
+She really admires the movie a lot.,0
+The boss thinks traffic is useless.,0
+The boss thinks traffic is boring.,0
+He miss work.,0
+That guy really losts vacations a lot.,0
+Our teacher really prefers coffee a lot.,0
+They love the movie.,0
+"Fantastic, Mondays is weird today. Wow, incredible.",1
+"Yeah, we really misss the movie. Can't wait for more.",1
+He really enjoys the rain a lot.,0
+Exactly what that guy wanted — the rain. Lucky me.,1
+They dislike meetings.,0
+They thinks coffee is weird.,0
+"Perfect, traffic again. Can't wait for more.",1
+"Fantastic, Mondays is amazing today. Everything's perfect.",1
+"Fantastic, emails is terrible today. Lucky me.",1
+My friend had a awesome day with Mondays.,0
+They had a painful day with the movie.,0
+"Yeah, our teacher really admires work. That made my day.",1
+They prefer vacations.,0
+He really hates meetings a lot.,0
+My friend had a unexpected day with vacations.,0
+Exactly what the boss wanted — gym. Totally worth it.,1
+"Yeah, our teacher really loves the movie. This is fine.",1
+The boss dislike Mondays.,0
+Our teacher really enjoys vacations a lot.,0
+He really prefers work a lot.,0
+"Oh great, that guy love coffee. Can't wait for more.",1
+"Yeah, our teacher really starteds traffic. That made my day.",1
+"Fantastic, coffee is amazing today. That made my day.",1
+The driver thinks gym is useless.,0
+"Yeah, my friend really misss meetings. Lucky me.",1
+The driver really enjoys the movie a lot.,0
+"Fantastic, meetings is unexpected today. As always.",1
+"Fantastic, meetings is awesome today. As always.",1
+"Fantastic, coffee is useless today. Just what I needed.",1
+"Yeah, our teacher really enjoys emails. This is fine.",1
+"Fantastic, coffee is terrible today. Just what I needed.",1
+My friend just miss gym.,0
+"Oh great, i dislike coffee. This is fine.",1
+"Yeah, the driver really hates coffee. This is fine.",1
+Our teacher just lost coffee.,0
+My friend thinks emails is terrible.,0
+"Oh great, she hate work. Just what I needed.",1
+"Fantastic, the rain is great today. Can't wait for more.",1
+"Fantastic, traffic is funny today. Everything's perfect.",1
+I had a unexpected day with the movie.,0
+"Fantastic, traffic is unexpected today. As always.",1
+"Oh great, the driver dislike traffic. Can't wait for more.",1
+The boss just finished gym.,0
+We really finisheds the rain a lot.,0
+Exactly what they wanted — gym. Just what I needed.,1
+We thinks emails is terrible.,0
+"Perfect, gym again. Just what I needed.",1
+The boss love the rain.,0
+The driver just finished coffee.,0
+Exactly what i wanted — gym. Everything's perfect.,1
+The driver just hate meetings.,0
+We just prefer traffic.,0
+The boss really misss the movie a lot.,0
+"Yeah, we really enjoys coffee. What a surprise.",1
+They had a awesome day with coffee.,0
+He lost the movie.,0
+"Fantastic, traffic is terrible today. That made my day.",1
+She enjoy the rain.,0
+Our teacher admire emails.,0
+Our teacher really enjoys the movie a lot.,0
+"Yeah, she really losts the rain. Everything's perfect.",1
+"Oh great, that guy enjoy traffic. What a surprise.",1
+"Yeah, they really loves gym. Just what I needed.",1
+"Perfect, vacations again. Just what I needed.",1
+"Perfect, work again. That made my day.",1
+We hate vacations.,0
+"Oh great, we dislike vacations. Can't wait for more.",1
+Exactly what she wanted — coffee. Everything's perfect.,1
+"Fantastic, work is great today. That made my day.",1
+She just enjoy emails.,0
+"Yeah, that guy really prefers vacations. That made my day.",1
+"Fantastic, vacations is great today. That made my day.",1
+They thinks Mondays is amazing.,0
+That guy thinks traffic is weird.,0
+She thinks the movie is awesome.,0
+That guy really losts coffee a lot.,0
+"Oh great, they finished meetings. As always.",1
+He had a amazing day with emails.,0
+She had a awesome day with emails.,0
+"Fantastic, gym is great today. Totally worth it.",1
+"Yeah, that guy really dislikes vacations. This is fine.",1
+"Oh great, the boss prefer the movie. This is fine.",1
+"Yeah, the driver really hates meetings. Totally worth it.",1
+"Yeah, he really admires emails. That made my day.",1
+Exactly what she wanted — coffee. As always.,1
+"Exactly what my friend wanted — traffic. Wow, incredible.",1
+The driver really enjoys gym a lot.,0
+I just lost the rain.,0
+"Fantastic, meetings is weird today. Everything's perfect.",1
+"Yeah, the driver really losts coffee. As always.",1
+The boss thinks work is weird.,0
+Exactly what the boss wanted — gym. As always.,1
+"Oh great, our teacher lost Mondays. Everything's perfect.",1
+The boss had a great day with gym.,0
+"Yeah, we really enjoys vacations. This is fine.",1
+Exactly what i wanted — coffee. Lucky me.,1
+"Fantastic, the rain is amazing today. Lucky me.",1
+"Fantastic, traffic is useless today. What a surprise.",1
+The driver really starteds Mondays a lot.,0
+That guy had a unexpected day with work.,0
+We thinks work is terrible.,0
+Exactly what they wanted — the movie. Just what I needed.,1
+Exactly what that guy wanted — work. As always.,1
+Exactly what they wanted — gym. This is fine.,1
+The driver just miss the rain.,0
+"Perfect, coffee again. Just what I needed.",1
+My friend thinks the rain is funny.,0
+"Fantastic, vacations is weird today. Everything's perfect.",1
+"Yeah, she really starteds traffic. Totally worth it.",1
+Exactly what they wanted — Mondays. This is fine.,1
+"Fantastic, traffic is awesome today. As always.",1
+I really enjoys coffee a lot.,0
+She had a funny day with vacations.,0
+That guy just love emails.,0
+The driver really finisheds work a lot.,0
+"Oh great, he prefer emails. What a surprise.",1
+I dislike emails.,0
+Exactly what the boss wanted — traffic. This is fine.,1
+"Oh great, they lost emails. Totally worth it.",1
+Our teacher thinks Mondays is weird.,0
+That guy had a weird day with meetings.,0
+Exactly what she wanted — emails. Totally worth it.,1
+"Yeah, our teacher really admires Mondays. Just what I needed.",1
+Exactly what i wanted — coffee. Can't wait for more.,1
+Our teacher really losts vacations a lot.,0
+Our teacher love the rain.,0
+That guy really prefers traffic a lot.,0
+The driver really losts Mondays a lot.,0
+He just admire gym.,0
+"Fantastic, the rain is terrible today. Everything's perfect.",1
+"Oh great, our teacher love Mondays. This is fine.",1
+She thinks traffic is useless.,0
+"Yeah, he really loves the movie. That made my day.",1
+"Oh great, that guy hate the rain. As always.",1
+Exactly what we wanted — vacations. That made my day.,1
+"Oh great, she finished the rain. Wow, incredible.",1
+Exactly what we wanted — coffee. What a surprise.,1
+The boss had a useless day with gym.,0
+The boss really hates Mondays a lot.,0
+Exactly what my friend wanted — emails. What a surprise.,1
+That guy finished coffee.,0
+Our teacher just prefer emails.,0
+Our teacher really prefers vacations a lot.,0
+The boss had a boring day with gym.,0
+"Oh great, he prefer vacations. Just what I needed.",1
+She thinks traffic is amazing.,0
+"Oh great, he dislike Mondays. Wow, incredible.",1
+The driver just dislike meetings.,0
+"Yeah, the boss really hates meetings. As always.",1
+The boss had a boring day with the movie.,0
+I had a funny day with the rain.,0
+That guy thinks work is amazing.,0
+Exactly what my friend wanted — meetings. What a surprise.,1
+"Exactly what we wanted — meetings. Wow, incredible.",1
+The boss thinks vacations is boring.,0
+"Fantastic, work is unexpected today. Can't wait for more.",1
+"Oh great, that guy hate work. That made my day.",1
+He had a amazing day with gym.,0
+We love the movie.,0
+"Oh great, she hate gym. That made my day.",1
+She finished emails.,0
+My friend thinks gym is useless.,0
+We thinks work is weird.,0
+"Perfect, meetings again. This is fine.",1
+"Fantastic, the movie is amazing today. Everything's perfect.",1
+He thinks the movie is unexpected.,0
+They love meetings.,0
+I thinks Mondays is amazing.,0
+"Fantastic, the rain is awesome today. Everything's perfect.",1
+I had a useless day with the rain.,0
+"Fantastic, gym is awesome today. Totally worth it.",1
+He just love meetings.,0
+The driver had a great day with vacations.,0
+"Fantastic, gym is painful today. What a surprise.",1
+Exactly what my friend wanted — the rain. Everything's perfect.,1
+That guy admire emails.,0
+"Oh great, we miss Mondays. Can't wait for more.",1
+He really starteds Mondays a lot.,0
+"Yeah, my friend really dislikes work. What a surprise.",1
+That guy thinks the rain is awesome.,0
+They enjoy gym.,0
+That guy had a boring day with traffic.,0
+"Fantastic, Mondays is funny today. What a surprise.",1
+"Oh great, they admire vacations. Wow, incredible.",1
+We thinks Mondays is boring.,0
+"Fantastic, Mondays is unexpected today. That made my day.",1
+Exactly what the boss wanted — the rain. Lucky me.,1
+The driver thinks vacations is useless.,0
+The driver lost traffic.,0
+That guy just finished meetings.,0
+"Oh great, my friend started the rain. Can't wait for more.",1
+The driver really prefers the movie a lot.,0
+"Wow net is too slow.",1
+"wow the net is so fast like tortoise.",1
+"i love strucking in traffic",1
+"wow My phone died yesterday.",1
 "Oh sure, I just love when my computer crashes right before a deadline.",1
 "Great, another meeting that could've been an email.",1
 "Wow, I totally needed this traffic jam in my life.",1
 "Oh, wonderful, the internet is down again.",1
 "Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
+"I just adore when my coffee spills all over my laptop.",1
 "Perfect, it started raining right after I washed my car.",1
 "Sure, because Mondays are everyone’s favorite day.",1
 "Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-"Oh sure, I just love when my computer crashes right before a deadline.",1
-"Great, another meeting that could've been an email.",1
-"Wow, I totally needed this traffic jam in my life.",1
-"Oh, wonderful, the internet is down again.",1
-"Yeah, because nothing says fun like doing taxes all night.",1
-I just adore when my coffee spills all over my laptop.,1
-"Perfect, it started raining right after I washed my car.",1
-"Sure, because Mondays are everyone’s favorite day.",1
-"Oh joy, another ad before my video starts.",1
-I’m so thrilled to be ignored again.,1
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-I had a great time with my friends today.,0
-The food at the new restaurant was delicious.,0
-I enjoyed watching the movie last night.,0
-It’s such a beautiful day outside.,0
-I love spending time with my family.,0
-The concert last night was amazing.,0
-I’m proud of myself for finishing my project.,0
-Had a relaxing weekend at home.,0
-I appreciate your help with the assignment.,0
-Looking forward to my vacation next week.,0
-Wow net is too slow.,1
-My phone died yesterday.,1
+"I’m so thrilled to be ignored again.",1
+"Lovely, I missed the bus and now I’m late.",1
+"Oh fantastic, my phone battery died in the middle of an important call.",1
+"Just what I needed, a flat tire on my way to work.",1
+"Wonderful, someone ate the last slice of pizza.",1
+"Perfect timing, the power went out while I was working.",1
+"Oh great, my package got lost in the mail.",1
+"Love it when my favorite show gets canceled.",1
+"Yes, because spilled coffee on my notes is exactly what I wanted.",1
+"Oh joy, another email from the boss at 11 PM.",1
+"Fantastic, it’s snowing and I forgot my boots.",1
+"Wonderful, my Wi-Fi decided to stop working mid-lecture.",1
+"Just perfect, my printer ran out of ink now.",1
+"Lovely, I stepped in gum right before a meeting.",1
+"Oh great, my luggage got lost again.",1
+"Perfect, my car won’t start on this rainy day.",1
+"Oh wonderful, someone parked in my spot.",1
+"Just what I needed, a broken air conditioner in this heat.",1
+"Great, the line at the coffee shop is a mile long.",1
+"Fantastic, I locked my keys inside my car.",1
+"Oh joy, my favorite dessert is sold out.",1
+"Perfect, a traffic light turned red just as I approached.",1
+"Wonderful, my phone screen cracked again.",1
+"Just great, my online order arrived damaged.",1
+"Oh perfect, I forgot my wallet at home.",1
+"Lovely, my train is delayed by an hour.",1
+"Oh fantastic, my headphones stopped working mid-song.",1
+"Perfect, the printer jammed on my only copy.",1
+"Wonderful, my favorite café is closed today.",1
+"Oh joy, another meeting that could've been an email.",1
+"Lovely, spilled coffee on my white shirt.",1
+"Oh great, it started raining during my walk.",1
+"Perfect, someone ate the last piece of cake.",1
+"Wonderful, I missed the bus again.",1
+"Just fantastic, the website crashed before I finished payment.",1
+"Oh joy, another Monday morning meeting.",1
+"Lovely, my computer froze during an important presentation.",1
+"Oh perfect, my pen ran out of ink mid-exam.",1
+"Wonderful, my alarm didn’t go off today.",1
+"Fantastic, I dropped my phone in water.",1
+"Oh joy, my internet is painfully slow today.",1
 i love boring mondays.,1
 i love going to college on mondays.,1
+i love alia.,0
+"I had a great time with my friends today.",0
+"The food at the new restaurant was delicious.",0
+"I enjoyed watching the movie last night.",0
+"It’s such a beautiful day outside.",0
+"I love spending time with my family.",0
+"The concert last night was amazing.",0
+"I’m proud of myself for finishing my project.",0
+"Had a relaxing weekend at home.",0
+"I appreciate your help with the assignment.",0
+"Looking forward to my vacation next week.",0
+"My cat is so adorable when she sleeps.",0
+"I love reading books on rainy days.",0
+"Had a wonderful dinner with my parents.",0
+"The sunset at the beach was breathtaking.",0
+"My dog learned a new trick today.",0
+"I’m enjoying my new hobby of painting.",0
+"The flowers in the garden are blooming beautifully.",0
+"I had a peaceful walk in the park today.",0
+"I love listening to my favorite music.",0
+"The coffee at the café was perfect.",0
+"My friends surprised me with a birthday cake.",0
+"I had a productive day at work.",0
+"The movie exceeded my expectations.",0
+"I enjoy spending time in nature.",0
+"My project received positive feedback.",0
+"The park was quiet and relaxing.",0
+"I love spending weekends reading.",0
+"My vacation was relaxing and fun.",0
+"The cake I baked turned out perfect.",0
+"I feel grateful for my supportive family.",0
+"My phone camera takes amazing pictures.",0
+"The sunset colors were stunning.",0
+"I had a fun game night with friends.",0
+"The new café has a cozy ambiance.",0
+"My morning jog was refreshing.",0
+"I enjoyed the music concert yesterday.",0
+"My garden is full of colorful flowers.",0
+"The lecture was very informative.",0
+"I felt happy after completing my task.",0
+"My breakfast was delicious today.",0
+"I had a great workout session.",0
+"The weather was perfect for a picnic.",0
+"My colleague helped me solve a problem.",0
+"I enjoyed the scenic drive.",0
+"My new shoes are very comfortable.",0
+"The book I read was very interesting.",0
+"I had a relaxing evening at home.",0
+"My favorite team won the match.",0
+"I feel content with my progress today.",0
+"wow the net is so fast like tortoise.",1
+"i love strucking in traffic",1
